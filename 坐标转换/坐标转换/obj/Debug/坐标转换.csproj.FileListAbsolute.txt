@@ -1,0 +1,10 @@
+E:\大二上\大地测量\坐标转换\坐标转换\bin\Debug\坐标转换.exe.config
+E:\大二上\大地测量\坐标转换\坐标转换\bin\Debug\坐标转换.exe
+E:\大二上\大地测量\坐标转换\坐标转换\bin\Debug\坐标转换.pdb
+E:\大二上\大地测量\坐标转换\坐标转换\obj\Debug\坐标转换.csprojAssemblyReference.cache
+E:\大二上\大地测量\坐标转换\坐标转换\obj\Debug\坐标转换.Form1.resources
+E:\大二上\大地测量\坐标转换\坐标转换\obj\Debug\坐标转换.Properties.Resources.resources
+E:\大二上\大地测量\坐标转换\坐标转换\obj\Debug\坐标转换.csproj.GenerateResource.cache
+E:\大二上\大地测量\坐标转换\坐标转换\obj\Debug\坐标转换.csproj.CoreCompileInputs.cache
+E:\大二上\大地测量\坐标转换\坐标转换\obj\Debug\坐标转换.exe
+E:\大二上\大地测量\坐标转换\坐标转换\obj\Debug\坐标转换.pdb
